@@ -17,3 +17,14 @@
 # Combine strings and variables
 
 # String manipulation
+# Put the number 2 on screen
+#puts 2
+
+#Put the sum of 5 and 2 on screen
+#puts 5+2
+
+# Store 2 and 5 into x and y in memory
+#x = 2
+#y = 5
+#puts x, y
+#puts x * y
